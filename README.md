@@ -43,7 +43,7 @@
 * **DBMS : Sqlite**
 * **JDK : JDK 1.8**
 * **Server : Apache Tomcat 8.5.83**
-* **Library : okhttp3, gson, lombok, sqlite-jdbc**
+* **Library : okhttp3, gson, lombok, sqlite-jdbc, jquery**
 * **IDE: Intellij IDEA 2022.2.3 (Ultimate Edition)**
 
 ## 주요 파일 구성 ##
